@@ -1,0 +1,61 @@
+{
+  "accounts": [
+    {
+      "FirstName": "Tobi",
+      "LastName": "Alabi",
+      "Email": "horlapo2014@gmail.com",
+      "PhoneNumber": "08160903419",
+      "Password": "12345",
+      "ConfirmPassword": "12345",
+      "id": 1
+    },
+    {
+      "FirstName": "Tobi",
+      "LastName": "Alabi",
+      "Email": "horlapo2014@gmail.com",
+      "PhoneNumber": "08160903419",
+      "Password": "12345",
+      "ConfirmPassword": "12345",
+      "id": 2
+    }
+  ],
+  "event": [
+    {
+      "id": 1,
+      "date_created": "2015-12-23",
+      "date_updated": "2015-12-23",
+      "location": "",
+      "venue": "",
+      "stop_time": "",
+      "start_time": "",
+      "event_theme": "",
+      "description": "",
+      "event-category": "",
+      "event_date": "",
+      "created-by": "",
+      "host": "",
+      "guest": [],
+      "attendees": [],
+      "event-banner": "",
+      "event-image": "",
+      "sponsor": [],
+      "ticket_category": "",
+      "ticket_fee": "",
+      "event_teams": [],
+      "event_dress_code": ""
+
+    }
+  ],
+  
+  "fakeEvents":[
+    {"title":"Alakija",
+      "description":"today is the day of the lord has made"
+    },
+    {"title":"Norbs",
+    "description":"Get together landmark beach"
+    },
+    {"title":"Tobi",
+    "description":"The gathering of the summoned"
+    }
+    ]
+}

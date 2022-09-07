@@ -1,0 +1,16 @@
+
+:root{
+--primary_green:#0CCE6B;
+--primary_black:#0C090D;
+--dashboard_main:#1f1f1f;
+--dashboard_accent:#777272;
+}
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    margin: 0;
+    box-sizing: border-box;
+}

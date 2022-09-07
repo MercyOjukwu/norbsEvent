@@ -1,0 +1,82 @@
+.registerContainer{
+    display: flex;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.leftSide{
+    width: 50%;
+    background-color: var(--primary_black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.rightSide{
+    width: 50%;
+    background-color: var(--primary_green);
+}
+
+.welcome-text{
+    margin-top: 3rem;
+    width: 80%;
+    
+}
+
+.welcome-text h1{
+    margin: 0;
+    color: white;
+
+}
+
+.welcome-text p{
+    margin: 5px 0;
+    color: rgba(226,226,226);
+    line-height: 25px;
+    font-size: 14px;
+}
+
+.leftSide-container{
+    width: 50%;
+    height: 70%;
+}
+
+.input-button-fields button{
+    border: unset;
+    background-color: var(--primary_green);
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 4px;
+    width: 351px;
+    height: 50px;
+}
+
+.leftSide-container a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 4rem;
+    cursor: pointer;
+}
+
+.fieldError{
+    color: red;
+    font-size: 12px;
+    margin: 10px 0;
+
+}
+
+.noFieldError{
+color: transparent;
+margin: 10px 0;
+}
+
+.input-button-fields{
+    margin: 3rem 0;
+}
+
+
